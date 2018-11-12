@@ -7,3 +7,9 @@
     text-align: center;
     font-weight: 500;
 }
+
+#gallery {
+    max-height: auto;
+    max-width: auto;
+
+}
